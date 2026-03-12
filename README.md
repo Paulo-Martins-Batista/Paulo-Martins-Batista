@@ -11,7 +11,7 @@
 
 ### Um pouco sobre mim... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
-Sou aluno de desenvolvimento de sistema, apaixonado por tecnologia, com foco no ensino de Computação e Lógica de Programação.
+Sou aluno de desenvolvimento de sistema, apaixonado por tecnologia, com foco em Python, HTML, Java Script e CSS.
 Sou uma entusiasta de tecnologia 💻 😃, sempre em busca de aprender e aplicar  novas ferramentas e conceitos de forma simples e acessível.
 
 ---

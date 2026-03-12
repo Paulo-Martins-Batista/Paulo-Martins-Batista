@@ -3,7 +3,7 @@
 ### 📬 Onde me encontrar
 
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/castor159](https://github.com/Paulo-Martins-Batista))) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianasplopes/)](https://www.linkedin.com/in/julianasplopes)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-martins-batista-9989b42b6/)](https://www.linkedin.com/in/paulo-martins-batista-9989b42b6)
 [![E-mail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.paullo.martins@live.com)](mailto:defcon.paullo.martins@live.com)
 
 
